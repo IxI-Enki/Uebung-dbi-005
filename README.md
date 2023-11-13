@@ -1,9 +1,10 @@
 # Uebung-dbi-005 -- Handelsunternehmen
 
 ## Angabe:
-![Angabe](https://github.com/IxI-Enki/Uebung-dbi-005/assets/138018029/ccbe1cf9-3cff-4cf3-a57a-30b4dd967a1c)
+![Angabe](https://github.com/IxI-Enki/Uebung-dbi-005/assets/138018029/f66e5e31-515a-4d72-8f24-ac1c2f827f81)
+
 
 ## SPOILER:  
-![Handelsunternehmen - Spezialisierung](https://github.com/IxI-Enki/Uebung-dbi-005/assets/138018029/0ae55120-fbd7-4bbd-b600-e74d9ba2b53d)
+![Handelsunternehmen - Spezialisierung](https://github.com/IxI-Enki/Uebung-dbi-005/assets/138018029/da9e2fde-49cb-45a8-9dc7-a8d0b04b60a1)
 
 
